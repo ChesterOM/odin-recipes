@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(16, 59, 146, 0.804);
+}
+
+
+img{
+    height: auto;
+    width: 1000px;
+    
+}
+
+
+.head{
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+.link, .head{
+    color: rgb(215, 141, 2);
+    
+}
